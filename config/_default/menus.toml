@@ -10,8 +10,19 @@
 
 [[main]]
   name = "2020 Pictures"
-  url = "#2020pics"
+  url = "#image_gallery"
   weight = 20
+
+  [[main]]
+    name = "2019 Pictures"
+    url = "2019_gallery"
+    weight = 30
+
+  [[main]]
+    name = "Event Details"
+    url = "event_details"
+    weight = 30
+
 
 # [[main]]
 #   name = "Projects"

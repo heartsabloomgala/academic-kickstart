@@ -18,7 +18,7 @@ organizations:
   url: "https://www.shconroe.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Gala to fundraise for Sacred Heart Catholic church on January 25, 2020 at 6:30pm-11:00pm in the Sacred Heart Gym
+bio: Sacred Heart Catholic Church will host their annual Gala on Saturday, January 25th (6:30pm-11:00pm). The proceeds from this fundraising event will be earmarked exclusively to reduce the building debt. The Gala is an event to promote fellowship within our community and enjoy an evening of fun for all. The 2020 Gala guest pictures and videos of the evening events are on this web page for your enjoyment.
 
 #interests:
 #- Artificial Intelligence
@@ -70,4 +70,5 @@ email: "heartsabloomgala@gmail.com"
 #- Visitors
 ---
 
-Hearts a Bloom Gala is under the Sacred Heart Catholic Church in Cornoe, Texas.
+<!-- Hearts a Bloom Gala is under the Sacred Heart Catholic Church in Cornoe, Texas. -->
+Sacred Heart Catholic Church will host their annual Gala on Saturday, January 25th (6:30pm-11:00pm). The proceeds from this fundraising event will be earmarked exclusively to reduce the building debt. The Gala is an event to promote fellowship within our community and enjoy an evening of fun for all. The 2020 Gala guest pictures and videos of the evening events are on this web page for your enjoyment.
