@@ -71,4 +71,6 @@ email: "heartsabloomgala@gmail.com"
 ---
 
 <!-- Hearts a Bloom Gala is under the Sacred Heart Catholic Church in Cornoe, Texas. -->
-Sacred Heart Catholic Church will host their annual Gala on Saturday, January 25th (6:30pm-11:00pm). The proceeds from this fundraising event will be earmarked exclusively to reduce the building debt. The Gala is an event to promote fellowship within our community and enjoy an evening of fun for all. The 2020 Gala guest pictures and videos of the evening events are on this web page for your enjoyment.
+Sacred Heart Catholic Church will host their annual Gala on Saturday, January 25th (6:30pm-11:00pm). The proceeds from this fundraising event will be earmarked exclusively to reduce the building debt. The Gala is an event to promote fellowship within our community and enjoy an evening of fun for all. The 2020 Gala guest pictures and videos of the evening events are on this web page for your enjoyment.</br>
+
+<a href="http://qtego.net/qlink/sacredheartcatholicchurch?fbclid=IwAR3-c47u6ZX3rmm6qUDHzSoWroOclpeFX_tPmI7--a6xOq1ip8tWP6AGvbk">QTEGO Link</a>

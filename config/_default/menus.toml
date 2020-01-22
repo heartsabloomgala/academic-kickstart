@@ -14,8 +14,8 @@
   weight = 20
 
   [[main]]
-    name = "2019 Pictures"
-    url = "2019_gallery"
+    name = "Prior Galas"
+    url = "prior_gallery"
     weight = 30
 
   [[main]]
