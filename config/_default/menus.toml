@@ -9,19 +9,25 @@
   weight = 10
 
 [[main]]
-  name = "2020 Pictures"
-  url = "#image_gallery"
+  name = "2020 Videos"
+  url = "#vid_gallery"
   weight = 20
 
-  [[main]]
-    name = "Prior Galas"
-    url = "prior_gallery"
-    weight = 30
+[[main]]
+  name = "2020 Pictures"
+  url = "#image_gallery"
+  weight = 30
 
-  [[main]]
-    name = "Event Details"
-    url = "event_details"
-    weight = 30
+
+[[main]]
+  name = "Prior Galas"
+  url = "prior_gallery"
+  weight = 30
+
+[[main]]
+  name = "Event Details"
+  url = "event_details"
+  weight = 30
 
 
 # [[main]]
