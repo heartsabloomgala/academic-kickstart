@@ -256,7 +256,7 @@ image = "https://tfoh5g.by.files.1drv.com/y4myvBH401kprJRdTmZJ8rPr0ajL7oIZEiga8N
 caption = ""
 [[gallery_item]]
 album = "Album 2020"
-image = "https://tfoh5g.by.files.1drv.com/y4mUWIjj8YJBXucHZ9PfCC03jZ8Ml45zyEjL1NxH1VrkOetf9R44gK6LyF50TJRMEtJZTEqGKjkKUKCoKLPshGo94dhoG6EdOKS9cppLHjyuHU_MaM87qAENtvPlC7UH42ecUH4R2Cpr7Y8LepdiEyoRU1dOkjP4G37wmX5YRPr9WDyBRAzGyS66xeMQh_yzIei-YhfRB_CHRkOuuUomYSAHQ"
+image = "https://tfoh5g.by.files.1drv.com/y4mrIVpAE-cfDDtFh_gXxW9DVQXFTeothpB9y7bK2seziwzTGPHHBdTtvQ6uvr4GbJnAkqsZHyFYwcmgpMBkqcpt98hfslS6YMqa9AglqK1yj5uIPOlPIgVfuafEjDVp0x2SinSNQmmR-wIgkMETwZN3D14wsGyQFQu3yWNLX4R4wNXf5xrcjjVGVoVrpTerrfW21ZGyM1Q25eiF7Gakxsolw"
 caption = ""
 [[gallery_item]]
 album = "Album 2020"
